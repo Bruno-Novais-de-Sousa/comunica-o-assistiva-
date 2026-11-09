@@ -3,7 +3,6 @@
 Sistema embarcado desenvolvido para ampliar a **autonomia e a segurança na locomoção** de pessoas com deficiência visual. O dispositivo, acoplado a uma bengala/bastão, **mapeia o ambiente ao redor do usuário** e **previne colisões** por meio da integração de **sensores ultrassônicos de proximidade**, **feedback tátil (vibração)** e **alertas sonoros**.
 
 <p align="center">
-  <img src="img/prototipo_bengala.png" alt="Protótipo montado em bastão" width="360">
 </p>
 
 ---
