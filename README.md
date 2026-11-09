@@ -98,7 +98,6 @@ Alimentação: bateria 9 V
 O circuito foi projetado e simulado antes da montagem física:
 
 <p align="center">
-  <img src="img/esquema_circuito.png" alt="Esquema elétrico do circuito" width="700">
 </p>
 
 | Dispositivo | Sinal | Pino do Arduino |
@@ -117,7 +116,6 @@ O circuito foi projetado e simulado antes da montagem física:
 O circuito foi integrado a um **bastão dobrável**: um sensor fica na extremidade superior, outro na região central junto à caixa com a eletrônica, e o **botão de controle fica no cabo**, ao alcance da mão do usuário. Os componentes foram fixados com suportes impressos e fitas de velcro.
 
 <p align="center">
-  <img src="img/prototipo_bengala.png" alt="Protótipo físico" width="360">
 </p>
 
 ## Lógica de funcionamento
